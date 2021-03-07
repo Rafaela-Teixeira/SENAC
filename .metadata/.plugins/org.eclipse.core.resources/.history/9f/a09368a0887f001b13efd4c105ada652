@@ -1,0 +1,13 @@
+package application;
+
+import java.util.Scanner;
+
+public class Ex3 {
+	public static void main(String[] args) {	
+		
+			
+		System.out.println("Oi");
+		Scanner teclado = new Scanner(System.in);
+	}
+}
+//

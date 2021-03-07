@@ -1,0 +1,14 @@
+package exercicios;
+
+public class Ex3 {
+
+	public static void main(String[] args) {
+		
+		int N1 = 9;
+		
+		System.out.println( N1 + " X 1 =" + N1 * 1);
+		
+		
+	}
+
+}

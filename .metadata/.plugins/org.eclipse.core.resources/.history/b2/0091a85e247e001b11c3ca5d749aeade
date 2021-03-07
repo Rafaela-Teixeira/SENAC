@@ -1,0 +1,17 @@
+package exercicios;
+
+public class Ex2 {
+
+	public static void main(String[] args) {
+
+		int N = 7;
+
+		System.out.println("1° Multiplo: " + 7 * 1);
+
+		System.out.println("2° Multiplo: " + 7 * 2);
+
+		System.out.println("3° Multiplo: " + 7 * 3);
+
+	}
+
+}
