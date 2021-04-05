@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;MultiplaEscolha&apos; to &apos;ADO_6&apos;" description="Rename resource &apos;MultiplaEscolha&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/MultiplaEscolha" name="ADO_6" stamp="1617574114546" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;ADO_6&apos; to &apos;PI_ADO_6&apos;" description="Rename resource &apos;ADO_6&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ADO_6" name="PI_ADO_6" stamp="1617574134414" updateReferences="true"/>
+</session>

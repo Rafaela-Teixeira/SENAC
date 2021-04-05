@@ -1,0 +1,10 @@
+package Aula2;
+
+public class CalculaMediaCondicionais {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

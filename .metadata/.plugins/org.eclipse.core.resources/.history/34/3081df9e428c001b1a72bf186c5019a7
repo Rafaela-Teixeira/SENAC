@@ -1,0 +1,19 @@
+package application;
+
+import java.util.Scanner;
+
+public class JogoDoWhile {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Digite uma das opções abaixo: ");
+		System.out.println("1 - Intruções \n2 - Jogar \n3 - Créditos \n4 - Sair" );
+
+		
+	}
+
+}
+// DO - FAÇA
+// WHILE - ENQUANTO

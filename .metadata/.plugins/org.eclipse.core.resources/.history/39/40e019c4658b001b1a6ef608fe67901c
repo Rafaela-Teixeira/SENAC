@@ -1,0 +1,25 @@
+package Aula2;
+
+import java.util.Scanner;
+
+public class CalculaMediaCondicionais {
+
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+
+		float n1, n2, n3, media;
+		String nomeAluno;
+		System.out.println("*--* Calcula Média *--*");
+		System.out.println("Nome: ");
+		nomeAluno = entrada.next();
+		System.out.println("N1: ");
+		n1 = entrada.nextFloat();
+		System.out.println("N2: ");
+		n2 = entrada.nextFloat();
+		System.out.println("N3: ");
+		n3 = entrada.nextFloat();
+		media = (n1 + n2 + n3) / 3;
+		System.out.println(nomeAluno + ", sua média foi: " + media);
+	}
+
+}
