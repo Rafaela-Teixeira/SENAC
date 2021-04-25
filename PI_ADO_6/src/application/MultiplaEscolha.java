@@ -32,6 +32,7 @@ public class MultiplaEscolha {
 			alternativa = sc.next().charAt(0);
 
 			switch (alternativa) {
+			
 			case 'b':
 			case 'B':
 				System.out.println("Resposta correta!");
