@@ -19,7 +19,7 @@ public class Teste {
 		case 'A':
 			System.out.println("Excelente!");
 			break;
-
+                                                                                                                                                                                                                                                            
 		case 'B', 'C':
 			System.out.println("Bem feito!");
 			break;
