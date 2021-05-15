@@ -20,9 +20,11 @@
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
-		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="true"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\rftei\Documents\JavaPI\SENAC\Algoritmos_ADO_PROJETOS"/>
+			<item value="C:\Users\rftei\Documents\JavaPI\SENAC\ProjetoIntegrador_ADO_PROJETOS"/>
 			<item value="C:\Users\rftei\Documents\JavaPI\SENAC\praticandoJava"/>
 			<item value="C:\Users\rftei\Documents\JavaPI\SENAC\Alg_Exemplos"/>
 		</list>
