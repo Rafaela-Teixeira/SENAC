@@ -1,4 +1,4 @@
-package application;
+package exemplos;
 
 public class ExemploRepetiçao {
 

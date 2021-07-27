@@ -1,4 +1,4 @@
-package application;
+package exemplos;
 
 public class Converter {
 	public static void main(String[] args) {
