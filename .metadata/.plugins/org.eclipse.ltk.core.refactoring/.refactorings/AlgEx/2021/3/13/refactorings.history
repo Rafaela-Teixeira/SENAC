@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;BalancoTrimestral.java&apos; to &apos;AlgExemplos&apos;&#x0D;&#x0A;- Original project: &apos;AlgEx&apos;&#x0D;&#x0A;- Destination element: &apos;AlgExemplos&apos;&#x0D;&#x0A;- Original element: &apos;Exercício.BalancoTrimestral.java&apos;" description="Copy compilation unit" destination="=AlgExemplos" element1="/src&lt;Exercício{BalancoTrimestral.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1616454629941" units="1" version="1.0"/>
-</session>
