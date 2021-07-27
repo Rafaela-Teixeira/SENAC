@@ -1,4 +1,4 @@
-package application;
+package ados.ado4;
 
 import java.util.Scanner;
 

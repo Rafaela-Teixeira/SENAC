@@ -1,4 +1,4 @@
-package exercicios;
+package ados.ado2;
 
 public class Ex2 {
 
