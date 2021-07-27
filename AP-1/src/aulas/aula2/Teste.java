@@ -4,37 +4,37 @@ import java.util.Scanner;
 
 public class Teste {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
-		
+        Scanner sc = new Scanner(System.in);
 
-		System.out.println("Digite a opção entre A, B, C, D, E");
 
-		char grade = sc.next(".").charAt(0);
+        System.out.println("Digite a opção entre A, B, C, D, E");
 
-		grade = Character.toUpperCase(grade);
-		
+        char grade = sc.next(".").charAt(0);
 
-		switch (grade) {
+        grade = Character.toUpperCase(grade);
 
-		case 'A':
-			System.out.println("Excelente!");
-			break;
-                                                                                                                                                                                                                                                            
-		case 'B', 'C':
-			System.out.println("Bem feito!");
-			break;
-		case 'D':
-			System.out.println("Você passou!");
-			break;
-		case 'E':
-			System.out.println("Melhor tentar novamente!");
-			break;
-		default:
-			System.out.println("Conceito inválido");
 
-		}
-	}
+        switch (grade) {
+
+            case 'A':
+                System.out.println("Excelente!");
+                break;
+            case 'B':
+            case 'C':
+                System.out.println("Bem feito!");
+                break;
+            case 'D':
+                System.out.println("Você passou!");
+                break;
+            case 'E':
+                System.out.println("Melhor tentar novamente!");
+                break;
+            default:
+                System.out.println("Conceito inválido");
+
+        }
+    }
 
 }
